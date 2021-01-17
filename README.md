@@ -16,7 +16,7 @@ Tools Comparision:
     - Pros: It has built-in caching, asynchronous requests, proxy and user agent randomnization and etc.
     - Cons: It's takes more time to get familiar with all the components and configurations.
 - R: 
-  - httr, rvest:
+  - httr, rvest: For reference, you can check [Cheat Sheet for Web Scraping using R](https://github.com/yusuzech/r-web-scraping-cheat-sheet)
     - Use case: Similar to requests and BeautifulSoup, usually used for smaller projects such as scrape websites with simple structures or scrape only a few pages.
     - Pros: Easy to learn and use, with R's strength in vectorized calcuations. The codes are simpler comparing to use requests and BeautifulSoup. Also, you can do web scraping in R studio as part of data analytics or data science workflow. No need to learn another language only for the purpose of doing some web scraping.
     - Cons: Similar to requests and BeautifulSoup, the codes get harder to manage when website structure becomes more complicated.  
