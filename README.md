@@ -2,7 +2,7 @@
 
 **This repo is working in progress**
 
-This repo includes working code to scrape https://books.toscrape.com/ and https://quotes.toscrape.com/. The example codes should cover entire web scraping workflow.
+This repo includes working code to scrape https://books.toscrape.com/ and https://quotes.toscrape.com/. 
 
 Tools Comparision:
 
