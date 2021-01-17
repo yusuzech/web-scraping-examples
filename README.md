@@ -9,7 +9,7 @@ Tools Comparision:
 - Python: 
   - requests, BeautifulSoup: 
     - Use Case: Usually used for smaller projects such as scrape websites with simple structures or scrape only a few pages.
-    - Pros: Light weight and easy to use. Can be used with jupyter notebook and be part of data analytics workflow or easily intergrated in serveless workflows such as AWS Lambda.
+    - Pros: Light weight and easy to use. Can be used with jupyter notebook and be part of data analytics/data science workflow or easily intergrated in serveless workflows such as AWS Lambda.
     - Cons: The codes get harder to manage when website structure becomes more complicated.  
   - scrapy: 
     - Use Case: Scrapy is much more powerful and can be used on large-scale webscraping with many useful functionalities built in.
