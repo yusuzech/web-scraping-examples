@@ -11,7 +11,7 @@ import json
 import re
 
 # Though JsonItemExporter is enough, I created MyJsonLinesItemExporter based on
-# JsonLinesItemExporter in order to show how to customize exporters
+# JsonLinesItemExporter in order to show how to customize exporters.
 from scrapy.exporters import JsonLinesItemExporter
 from scrapy.utils.python import to_bytes
 import os

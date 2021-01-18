@@ -14,7 +14,7 @@ NEWSPIDER_MODULE = 'Scrapy.spiders' # create new spiders here
 LOG_LEVEL='INFO'
 
 # enable following lines for testing ---
-CLOSESPIDER_PAGECOUNT = 10 # test a few pages
+CLOSESPIDER_PAGECOUNT = 20 # test a few pages
 # ---
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
