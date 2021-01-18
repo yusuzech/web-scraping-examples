@@ -1,6 +1,9 @@
 *.json
-**/*.json
+BeautifulSoup/**/*.json
+Scrapy/**/*.json
 *.jpg
 **/*.jpg
 *.pyc
 **/*.pyc
+*.jl
+**/*.jl
