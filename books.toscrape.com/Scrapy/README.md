@@ -14,4 +14,4 @@ To use, run `scrapy crawl`
     - Defines logics to store scraped items.
 4. Scrapy.settings
     - Differnt settings on how the spider's overall behavior.
-    - Toggle CLOSESPIDER_PAGECOUNT settings to enable/disable testing mode where the spider only run for 10 pages.
+    - Toggle `CLOSESPIDER_PAGECOUNT` settings to enable/disable testing mode where the spider only run for 10 pages.
