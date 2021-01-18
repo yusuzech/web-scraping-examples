@@ -14,7 +14,7 @@ Tools Comparision:
   - scrapy: 
     - Use Case: Scrapy is much more powerful and can be used on large-scale webscraping with many useful functionalities built in.
     - Pros: It has built-in caching, asynchronous requests, proxy and user agent randomnization and etc. It also includes useful modules that streamline web scarping workflow.
-    - Cons: It's takes more time to get familiar with all the components and configurations.
+    - Cons: Learning curve for Scrapy is steeper. You need to invest more item to get familiar with it even after you're good at webscraping using requests and BeautifulSoup.
 - R: 
   - httr, rvest: For reference, you can check [Cheat Sheet for Web Scraping using R](https://github.com/yusuzech/r-web-scraping-cheat-sheet)
     - Use case: Similar to requests and BeautifulSoup, usually used for smaller projects such as scrape websites with simple structures or scrape only a few pages.
