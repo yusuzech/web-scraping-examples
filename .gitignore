@@ -1,3 +1,6 @@
 *.json
+**/*.json
 *.jpg
+**/*.jpg
 *.pyc
+**/*.pyc
